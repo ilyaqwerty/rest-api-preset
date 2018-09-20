@@ -22,6 +22,7 @@ npm i
 npm start
 ```
 Default localhost port is 8000.
+Default database name in dbName.
 
 ### Insert json file in MongoDB:
 Move to bash directory, then run shell script insertInBase with args.
