@@ -4,11 +4,11 @@
 The project is designed to quickly start the development of the REST API using Node.js (Express) and MongoDB (Mongoose).
 
 ## Config
-Core: 
+###Core: 
 - Express.js 
 - Mongoose (Mongodb)
 
-Utils:
+###Utils:
 - Nodemon (to provide hot reloading)
 - Cors (to support preflight OPTIONS requests)
 - Babel 
