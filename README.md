@@ -16,7 +16,7 @@ The project is designed to quickly start the development of the REST API using N
 
 ## How to use
 ```
-npm i
+npm install
 ```
 ```
 npm start
